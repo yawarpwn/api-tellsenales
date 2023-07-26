@@ -1,6 +1,19 @@
 {
   "version": "2",
   "remote": {
+    "https://cdn.skypack.dev/-/@firebase/app@v0.7.14-GJlXydJb3JcmLu0qkTHq/dist=es2019,mode=imports/optimized/@firebase/app.js": "4b648ab737e7cc02342809b12da29c84e8dc3bdd77b9792034be4a84737a5041",
+    "https://cdn.skypack.dev/-/@firebase/app@v0.7.8-3lbP0m6w8ulnC3FIRpzK/dist=es2019,mode=imports/optimized/@firebase/app.js": "9abbae68657e5041c1bd3c6543b754834b488f5fb41451cab7e23cda0c4efb67",
+    "https://cdn.skypack.dev/-/@firebase/component@v0.5.10-FCGhmwktBGOMfs8IijTq/dist=es2019,mode=imports/optimized/@firebase/component.js": "908ca2c2b9e7e3985d10cd5059269986a3e27d1f10aff1593218a8987553d781",
+    "https://cdn.skypack.dev/-/@firebase/component@v0.5.9-NRovvSCAF0YOkKLBn5pi/dist=es2019,mode=imports/optimized/@firebase/component.js": "94d5f27051c277a0cb7077c1d69d30ded52e19770d501c8ceaeeb89069d135cf",
+    "https://cdn.skypack.dev/-/@firebase/firestore@v3.3.0-ggMPpL4493nFiYIT4vDG/dist=es2019,mode=imports/optimized/@firebase/firestore.js": "68f83d27b55853a01e496ffb9e633158a89daf16061717a9cbfca9564a7f861d",
+    "https://cdn.skypack.dev/-/@firebase/logger@v0.3.2-h7x4OWlAPVjgNAAOr2gq/dist=es2019,mode=imports/optimized/@firebase/logger.js": "8c9fdd52e7b5b616539b6d7ae2b0a95d240674e08676eeaa5a41b0dab55d4e25",
+    "https://cdn.skypack.dev/-/@firebase/util@v1.4.2-o1QaaOMp7XufljO1NSYM/dist=es2019,mode=imports/optimized/@firebase/util.js": "75d0192d1a5d0e0aac44c16558d4b2ab823e9df72dcefbf9fee08d34d470453d",
+    "https://cdn.skypack.dev/-/@firebase/util@v1.4.3-13BnGdo0A5uxcz6gH7eX/dist=es2019,mode=imports/optimized/@firebase/util.js": "75d0192d1a5d0e0aac44c16558d4b2ab823e9df72dcefbf9fee08d34d470453d",
+    "https://cdn.skypack.dev/-/@firebase/webchannel-wrapper@v0.6.1-CBwh4YXTQzoTvZtFT0n6/dist=es2019,mode=imports/optimized/@firebase/webchannel-wrapper.js": "5cbdae9a357f12e3272d46776b59ec052174bf37e4dd8fdf79acb099d6e9cf84",
+    "https://cdn.skypack.dev/-/firebase@v9.4.1-PuZLAgdgi4F8W01L3t8f/dist=es2019,mode=imports/optimized/firebase/app.js": "5f0f119b00b38b069500de01a569f0d96032bae410c460cfc7fb54d80c6b0d8d",
+    "https://cdn.skypack.dev/-/firebase@v9.4.1-PuZLAgdgi4F8W01L3t8f/dist=es2019,mode=imports/optimized/firebase/firestore.js": "223c290e394226249e3b2983477ec7ba2b0a3472c640fbca40f0d86c47c90452",
+    "https://cdn.skypack.dev/firebase@9.4.1/app": "bc865cb5d2c300c87760ea5180cc2cf488b2aa692fb464f524d3c38b64954fcf",
+    "https://cdn.skypack.dev/firebase@9.4.1/firestore": "d7564e9353b6863c097a3b9e817255445f864c7e4d084dfb3d2bb17d1f721f8a",
     "https://deno.land/std@0.152.0/_util/assert.ts": "e94f2eb37cebd7f199952e242c77654e43333c1ac4c5c700e929ea3aa5489f74",
     "https://deno.land/std@0.152.0/_util/os.ts": "3b4c6e27febd119d36a416d7a97bd3b0251b77c88942c8f16ee5953ea13e2e49",
     "https://deno.land/std@0.152.0/async/deferred.ts": "bc18e28108252c9f67dfca2bbc4587c3cbf3aeb6e155f8c864ca8ecff992b98a",
@@ -47,6 +60,9 @@
     "https://deno.land/std@0.195.0/async/pool.ts": "f1b8d3df4d7fd3c73f8cbc91cc2e8b8e950910f1eab94230b443944d7584c657",
     "https://deno.land/std@0.195.0/async/retry.ts": "296fb9c323e1325a69bee14ba947e7da7409a8dd9dd646d70cb51ea0d301f24e",
     "https://deno.land/std@0.195.0/async/tee.ts": "47e42d35f622650b02234d43803d0383a89eb4387e1b83b5a40106d18ae36757",
+    "https://deno.land/std@0.195.0/collections/filter_values.ts": "16e1fc456a7969e770ec5b89edf5ac97b295ca534b47c1a83f061b409aad7814",
+    "https://deno.land/std@0.195.0/collections/without_all.ts": "1e3cccb1ed0659455b473c0766d9414b7710d8cef48862c899f445178f66b779",
+    "https://deno.land/std@0.195.0/dotenv/mod.ts": "39e5d19e077e55d7e01ea600eb1c6d1e18a8dfdfc65d68826257a576788da3a4",
     "https://deno.land/std@0.195.0/http/server.ts": "1b23463b5b36e4eebc495417f6af47a6f7d52e3294827a1226d2a1aab23d9d20",
     "https://deno.land/x/cors@v1.2.2/abcCors.ts": "cdf83a7eaa69a1bf3ab910d18b9422217902fac47601adcaf0afac5a61845d48",
     "https://deno.land/x/cors@v1.2.2/attainCors.ts": "7d6aba0f942495cc31119604e0895c9bb8edd8f8baa7fe78e6c655bd0b4cbf59",
@@ -56,6 +72,10 @@
     "https://deno.land/x/cors@v1.2.2/oakCors.ts": "1348dc7673c61b85d2e80559a7b44f8e0246eaa6bcc6ec744fafe5d9b13b5c71",
     "https://deno.land/x/cors@v1.2.2/opineCors.ts": "fb5790115c26b7061d84b8d6c17d258a1e241bcab75b0bc3ca1fdb2e57bc5072",
     "https://deno.land/x/cors@v1.2.2/types.ts": "97546633ccc7f0df7a29bacba5d91dc6f61decdd1b65258300244dba905d34b8",
+    "https://deno.land/x/csv_parser@v0.0.1/mod.ts": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "https://deno.land/x/jsonfile@1.0.0/mod.ts": "e9c1125d58078de9dc4b3ef43bcc644375af26bef565b7f623df706e97d76087",
+    "https://deno.land/x/jsonfile@1.0.0/read_json.ts": "bbf7fa8f559e8540a8bbb837078a4f2b6b3e5d94dfc7c9aaf752ab9e1a00f029",
+    "https://deno.land/x/jsonfile@1.0.0/write_json.ts": "89a6231f51a6759dfff8f1f5534d030c2239c22fc9f3c0b3305d424f4f1d5604",
     "https://deno.land/x/oak@v11.1.0/application.ts": "0a728331822b8e27727ceec48a8499657c3163fc48fd379a8a9578a75f3cdb62",
     "https://deno.land/x/oak@v11.1.0/body.ts": "78402a4936accb80372c4944384658105604352d6783de7ff1e36b8832dd93c9",
     "https://deno.land/x/oak@v11.1.0/buf_reader.ts": "7cf96aa0ac670b75098113cf88a291a68332cc45efa8a9698f064ac5b8098a0f",
@@ -420,6 +440,10 @@
     "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/xprod.js": "ecac5f7263ddad3484c6802097a6d0957b6107ce8e52eea0f27a04be50a16833",
     "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/zip.js": "29a04e7dd0a012e391fc595900b4cb0124a13c738f4e6f4489c7173b4a6642dc",
     "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/zipObj.js": "c463fe415ecf647561a12ed9dd3444a0be4dd642e787e156fe8caf7fee0ce4ca",
-    "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/zipWith.js": "2081388ae101a01f60589f0a74b7a8e75fdc7a6416c224673f197633750041ec"
+    "https://w5wr43kv2j3pptou6hn6gc2jdecgricl7e4wdtlc7lnojwwac5oa.arweave.net/t20ebVXSdvfN1PHb4wtJGQRooEv5OWHNYvra5NrAF1w/source/zipWith.js": "2081388ae101a01f60589f0a74b7a8e75fdc7a6416c224673f197633750041ec",
+    "https://www.gstatic.com/firebasejs/10.1.0/firebase-app-compat.js": "a07b264b7cea071be9fd0760f6fb9c9b263c01e548362f70029bda4425f81e17",
+    "https://www.gstatic.com/firebasejs/9.8.1/firebase-app.js": "81d16c8e1c79d9c647c0a28af64b25d95fc2979e45d806d374e981bf7b56393d",
+    "https://www.gstatic.com/firebasejs/9.8.1/firebase-auth.js": "f2fe9fda7d7136d8af00ce272428cf7674cea818085aa4ad0950e0f4307e9bea",
+    "https://www.gstatic.com/firebasejs/9.8.1/firebase-firestore.js": "18cef71d7554baa7e5a167dc544c581aaaab27fef16b28c14787c84a9c60382d"
   }
 }

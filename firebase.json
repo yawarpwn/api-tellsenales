@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "tellsenales-6300d",
+  "private_key_id": "139d8a5da7742ae3b10ffe2d1b7ea23868814fb5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjmAeOGqX45zXO\ngj31uAZVvRdGPtVQYUhCeqcm/Z77/2EvPhfxG2HWo72TIJAivm4drw0nk+oDc5+Q\n4aqV7uZk67HklRacU614jrmurPAcvwZygTF0+AdXWUONmm8ZWVx0G7WbBI2nYfeQ\no7F5QB7u6/D8V4kJlmc5Bqwe7YvnVXvUd0/j3fuKSWpvaWzzLHEggu/YoqZB+5i7\nEu7Htd2F/khzxWvKqiOa2Ni6YZU3Z1nu05PHHJ/TXkVLeTrEQxVXz44NfuNb4TFa\nYyJalyUJQm583aM69VZhv0VtXfQSY0eL3T/ux5v+uGRoiXwjnuqxWcGuBiD3s2Vo\n+hKDYKRnAgMBAAECggEAAcHYvRYjlepjFfcXd2A2XE8bcOVnTDmUDz9XLwviQFvW\nakD2elwVw0x8WDh2JG6H9x604UtZETHBV6MGaCXyDXFsbDFifU6AFmAzus+HAxHO\ngO/Sa+7GT7xWsy8wEGgKOLNGEa5VUaeF+83nvuHp2zpjH++lFTfeECinB44Z+G1C\nzgtDgeZbmNxhvIZfLgWS07h23NXNxUgbKhAfPQV7UU0Xm4S8KYu7r+Guhq51Jxys\nrnoEs82aNMujcYtq3aRB+HGo7/LdOHvoeYO0J3L60FcZqpm4s1viWP6GsYgS3zdS\n7m9WChyZj+JYNulMLUcyrus0UBPsXZvSrPuhfbowwQKBgQD+DYfuzzO6c0wGZe4B\nbm/PUlG7FXCO0zKkyZDLafgqOiF//p+JdxKMYmb55JrwIIAumQpmt9A3KIbqM4oN\n7kHEA+82W00fe9WKPnPvDvFPiofedOl2/4mjrgYLxVRqoP50jp2xiOqMSON/ahMD\nCVFkmgaPzEHGIT5Tgabsm459twKBgQDlVpWNA4gbCNWgSi+uGhxUP+D5atOuqYj6\n8NuI/D0F32LmgR3zYtKqpAVlOnbKvvVwkiSomMHHlKiwgLtc3osgZ0njh8v83nZs\ntqiJu2PuH6hYh8Hu+VqlGn2vALFNFz1Jf6SAguJJJCvdRo0x+0BjoP6Wa0Kc2GK2\nbb8tUDQO0QKBgCJGnRJhLi93osgyNFxJFBi6mIBPMjJy2CBXeYuYLn0z/pUQO2IG\niKAcHpyUdTr0h5bB2x9kqVjnxNwQPA4JGSJjDYEd7FfVE0hliKq2L2R14kLnLyB4\n9Y75yaMI6ozAT9RV8XykZlCq/NaR7yK3vR1/kmcQPceHcKs/kM/XZPAdAoGAdZmO\nmn7DHknLcaRZCsfs2u7eqEc1QQ1CZpt3l6jwicBg8J4pA5MbP9FXyu7N121QYmcu\nUR3z0CnUzp1UdmzPntAYPYp2+bYBuAF6LxZeSc8F/k+vDKHk72DELicGw+c00CmZ\n6yQycRsROyhgYs7Z17zIj810nQUAqVdhfxTvfOECgYEA5S7XK56HAg0/8Kkl1m7t\n6LWjAlC6EOQmp9yeruPFbug3Iz2eE89XH/tUi9xTJyJMKq1IWaTE4XWxoSe5Pw2L\nIZRbT6mz+zK3vIRnTnAN597fRkZXJEpwwkCo8U9gcgRofJgcig/lU9axIO9e/yro\neufZmNlmvNi6LKL/LgTgWl4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ebuy9@tellsenales-6300d.iam.gserviceaccount.com",
+  "client_id": "104836654742200117982",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ebuy9%40tellsenales-6300d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
